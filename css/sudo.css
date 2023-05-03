@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* a:visited{
+    color: rgb(126, 58, 58);
+}
+a:active{
+    color: rgb(35, 202, 63);
+} */
+/* a:link{
+    color: aqua;
+} */
+/* ul li:last-child{
+    color: aqua;
+}
+ul li:nth-child(3){
+    background-color: blue;
+    color: brown;
+}
+ul li:nth-last-child(3){
+    background-color: aqua;
+    color: azure;
+}
+ul li:first-child{
+    background-color: blueviolet;
+    color: greenyellow;
+} */
+/* .main p:first-of-type{
+    background-color: aqua;
+} */
+/* .main p:last-of-type{
+    background-color: blue;
+    color: aliceblue; */
+/* } */
+/* .main p:nth-last-of-type(2){
+    background-color: black;
+    color: blue;
+}
+.main p:nth-of-type(2){
+    background-color: blueviolet;
+    color: azure;
+} */
+/* .main h1:only-child{
+    background-color: chartreuse;
+} */
+/* .main :not(h1){
+    background-color: aqua;
+} */
+/* .main :is(p){
+    background-color: aqua;
+} */
+/* .main:empty{
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+} */
+/* input[type="text1"]:disabled{
+    background-color: rgb(19, 134, 134);
+}
+input[type="text2"]:enabled{
+    background-color: blue;
+} */
+/* input[name="text1"]:focus{
+    background-color: aqua;
+    color: rgb(143, 14, 14);
+} */
+/* input[type="text"]:read-only{
+   color:aqua;
+}
+input[type="text"]:read-write{
+    color:rgb(65, 39, 180);
+ } */
+ /* input[type="text"]:required{
+    color: blue;
+ } */
+ /* input[type="number"]:in-range{
+    background-color: rgb(105, 226, 69);
+    color: blue;
+ }
+ input[type="number"]:out-of-range{
+    background-color: cadetblue;
+    color: red;
+ } */
+ /* input[name="text1"]:valid{
+    color: rgb(105, 201, 9);
+ }
+ input[name="text2"]:invalid{
+    color: rgb(167, 14, 14);
+ } */
+ /* :target{
+    color: blue;
+ } 
+#chk:checked + span{
+    color: green;
+}
+.main p::first-letter{
+    font-size: 55px;
+    color: blue;
+}
+.main p::selection{
+    background-color: aqua;
+    color: red;
+}
+.main p::first-line{
+    font-size: 55px;
+    color: blue;
+} */

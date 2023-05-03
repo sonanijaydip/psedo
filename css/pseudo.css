@@ -1,0 +1,140 @@
+/* a:link{
+    color: green;
+}
+a:active{
+    color: cadetblue;
+}
+a:visited{
+    color: coral;
+} */
+
+
+/* .list li:first-child{
+    background-color: aqua;
+}
+.list li:last-child{
+    background-color: blue;
+}
+.list li:nth-child(3){
+    background-color: blueviolet;
+}
+.list li:nth-last-child(3){
+    background-color: chartreuse;
+} */
+
+/* .list li:nth-child(odd){
+    background-color: blueviolet;
+}
+.list li:nth-child(even){
+    background-color: burlywood;
+} */
+
+/* .main p:first-of-type{
+    background-color: aqua;
+}
+.main p:last-of-type{
+    background-color: bisque;
+}
+.main p:nth-of-type(2){
+    background-color: blueviolet;
+}
+.main p:nth-last-of-type(2){
+    background-color: cadetblue;
+} */tasseahsios
+
+/* .main p:nth-of-type(odd){
+    background-color: blueviolet;
+}
+.main p:nth-of-type(even){
+    background-color: cadetblue;
+} */
+
+
+.main span:only-child{
+    background-color: aquamarine;
+}
+
+/* .main h1:only-of-type{
+    background-color: aquamarine;
+} */
+
+/* .main :not(p){
+    background-color: yellow;
+} */
+/* .main :is(p){
+    background-color: yellow;
+} */
+/* 
+.box:empty{
+    height: 50px;
+    width: 100px;
+    background-color: red;
+} */
+
+/* input[name="txt1"]:enabled{
+    background-color: green;
+}
+input[name="txt1"]:disabled{
+    background-color: red;
+} */
+
+
+/* input[name="txt2"]:focus{
+    background-color: red;
+} */
+
+/* input[name="txt3"]:read-write{
+    color: green;
+}
+input[name="txt3"]:read-only{
+    color: red;
+} */
+
+/* input[name="txt4"]:optional{
+    color: green;
+}
+input[name="txt4"]:required{
+    color: red;
+} */
+
+/* input[name="txt5"]:in-range{
+    color: green;
+}
+input[name="txt5"]:out-of-range{
+    color: red;
+}  */
+/* input[name="txt6"]:valid{
+    color: green;
+}
+input[name="txt6"]:invalid{
+    color: red;
+}  */
+
+/* :target{
+    background-color: yellow;
+} */
+
+/* #chk:checked + span{
+    color: red;
+} */
+/* #chk:checked ~ span{
+    color: red;
+} */
+
+/* p::first-letter{
+    font-size: 50px;
+}
+
+p::first-line{
+    color: red;
+} */
+
+
+p::selection{
+    background-color: yellow;
+    color: red;
+}
+
+input[type="text"]::placeholder{
+    color: red;
+}
